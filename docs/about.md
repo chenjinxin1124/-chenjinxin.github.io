@@ -1,6 +1,6 @@
 # about
 
-cjx
+cjx-blog
 
 ## Commands
 ```
